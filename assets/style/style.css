@@ -1,0 +1,17 @@
+html {
+
+}
+
+body {
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/round.png");
+}
+
+.container {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.jumbotron {
+  margin-top: 15%;
+  padding: 5%
+}
